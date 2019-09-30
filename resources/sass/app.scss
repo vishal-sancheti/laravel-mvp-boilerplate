@@ -1,6 +1,5 @@
 // Fonts
 @import url('https://fonts.googleapis.com/css?family=Nunito');
-@import url('https://cdn.linearicons.com/free/1.0.0/icon-font.min.css');
 
 // Variables
 @import 'variables';
@@ -9,11 +8,4 @@
 @import '~bootstrap/scss/bootstrap';
 
 // Sidebar
-@import 'sidebar';// Fonts
-@import url('https://fonts.googleapis.com/css?family=Nunito');
-
-// Variables
-@import 'variables';
-
-// Bootstrap
-@import '~bootstrap/scss/bootstrap';
+@import 'sidebar';
